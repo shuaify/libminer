@@ -87,6 +87,12 @@ use_testthat()
 
 
 ################ use github actions
+#use_github_action()
+#buildreadme()
 
+# wait for github actions to run all the stuff
+
+
+# use_pkgdown_github_pages()
 
 
