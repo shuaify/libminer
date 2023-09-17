@@ -79,5 +79,14 @@ use_testthat()
 
 
 #################### Managing dependencies
+# use_readme_rmd() to build a rmd
+# build_readme() to build a read me
+
+
+
+
+
+################ use github actions
+
 
 
