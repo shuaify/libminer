@@ -59,7 +59,7 @@ use_mit_license()
 #devtools::load_all(".")
 
 
-# install packages pay attention it's not like the normal packs from cran
+######################### install packages pay attention it's not like the normal packs from cran
 # if u add the test file this installation is not gonna work
 
 install()
@@ -70,6 +70,14 @@ lib_summary()
 
 
 
-# doing unit test
+#################### doing unit test
 use_testthat()
+
+# all the test files are automatically generated refer to the website
+# just run those 2 commands and u are good
+
+
+
+#################### Managing dependencies
+
 
