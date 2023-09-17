@@ -53,3 +53,23 @@ use_mit_license()
 # u don't need export functions that are helper, only for final product
 # also for every function developed, u created a roxygen trunk in front of it
 
+
+# use_package_doc()
+#document()
+#devtools::load_all(".")
+
+
+# install packages pay attention it's not like the normal packs from cran
+# if u add the test file this installation is not gonna work
+
+install()
+
+library(libminer)
+
+lib_summary()
+
+
+
+# doing unit test
+use_testthat()
+
